@@ -1,9 +1,4 @@
 #include <stdio.h>
-
-typedef struct {
-    int year;
-} BirthYear;
-
 int main()
 {
     int birthYear;
