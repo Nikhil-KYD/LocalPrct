@@ -19,6 +19,8 @@ int main()
     scanf("%f",&marks2);
     printf("Enter marks for subject 3: \n");
     scanf("%f",&marks3);
+    printf("Enter your grade: \n");
+    scanf(" %c", &grade);
     totalMarks = marks1 + marks2 + marks3;
     percentage = (totalMarks / 300) * 100;
 
@@ -31,7 +33,8 @@ int main()
     printf("Marks in Subject 3: %.2f\n", marks3);
     printf("Total Marks: %.2f\n", totalMarks);
     printf("Percentage: %.2f%%\n", percentage);
-
+    printf("Grade: %c\n", grade);
+    printf("Thanks for providing your details!\n");
     return 0;
 
 }

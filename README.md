@@ -1,4 +1,4 @@
-# hehehehehe
+# C Prcatices for basics and logics
 
 ## These Codes are only for practice records so in future i can look back and see, Oh i did these all.
 
