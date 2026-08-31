@@ -6,6 +6,6 @@ int main()
     float r = 6;
     float pikpie;
     pikpie = pi * r * r;
-    printf("Pickpie of the circle is %f\n", pikpie);
+    printf("Area of the circle is %f\n", pikpie);
     return 0;
 }
