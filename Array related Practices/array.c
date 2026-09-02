@@ -116,7 +116,7 @@ int main()
             if (choice == 'y' || choice == 'Y')
             { 
                 printf("Sure!!\n");
-            }
+            }S
             else if (choice == 'n' || choice == 'N')
             {
                 printf("Bye! Cya Next Time :)");
